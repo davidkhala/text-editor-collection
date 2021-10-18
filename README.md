@@ -9,6 +9,6 @@ $ kwrite
 ## $more 
 https://man7.org/linux/man-pages/man1/more.1.html
 - exit: `q`
-- scroll: ?`d`
-- 
+- scroll down: `<SPACE>`
+- page up: `b`
 ## $cat
